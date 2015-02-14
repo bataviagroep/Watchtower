@@ -1,7 +1,7 @@
 Watchtower
 ==========
 
-Watchtower is a monitoring system for websites, webservices, jobs, services, etc...
+Watchtower is a monitoring system for websites, webservices, jobs, services, etc.
 
 More info about the project will be available in the [Project Wiki](https://github.com/bataviagroep/Watchtower/wiki).
 
